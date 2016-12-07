@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{400F3087-C5CD-0D86-BF05-D5828A83D758}") = "Riddles In The Dark", "Assembly-CSharp.csproj", "{B319B8F0-17F8-610D-71C4-6ACF450B5765}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B319B8F0-17F8-610D-71C4-6ACF450B5765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B319B8F0-17F8-610D-71C4-6ACF450B5765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B319B8F0-17F8-610D-71C4-6ACF450B5765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B319B8F0-17F8-610D-71C4-6ACF450B5765}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
