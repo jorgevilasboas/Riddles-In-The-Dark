@@ -48,6 +48,7 @@
      <Compile Include="Assets\Scripts\DoorsMove.cs" />
      <Compile Include="Assets\Scripts\GameManager.cs" />
      <Compile Include="Assets\Scripts\LoadMenu.cs" />
+     <None Include="Assets\Fonts\xolonium-fonts-2.4\source.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
