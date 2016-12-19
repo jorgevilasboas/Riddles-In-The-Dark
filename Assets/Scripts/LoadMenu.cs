@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 public class LoadMenu : MonoBehaviour
 {
@@ -22,7 +23,8 @@ public class LoadMenu : MonoBehaviour
 	}
 
 	public void LoadMenu2 ()
-	{		
+	{	
+
 		menu1.SetActive (false);
 		menu2.SetActive (true);
 		menu3.SetActive (false);
@@ -31,10 +33,13 @@ public class LoadMenu : MonoBehaviour
 
 	public void LoadMenu3 ()
 	{
+		SceneManager.LoadScene ("CT01");
+		/*
 		menu1.SetActive (false);
 		menu2.SetActive (false);
 		menu3.SetActive (true);
 		menu4.SetActive (false);
+		*/
 	}
 
 	public void LoadMenu4 ()

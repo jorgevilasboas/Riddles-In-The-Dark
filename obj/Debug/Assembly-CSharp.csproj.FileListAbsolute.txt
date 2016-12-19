@@ -19,3 +19,24 @@ C:\Users\Public\Documents\Unity Projects\Riddles In The Dark\Temp\bin\Debug\Unit
 C:\Users\Public\Documents\Unity Projects\Riddles In The Dark\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 C:\Users\Public\Documents\Unity Projects\Riddles In The Dark\obj\Debug\Assembly-CSharp.dll
 C:\Users\Public\Documents\Unity Projects\Riddles In The Dark\obj\Debug\Assembly-CSharp.pdb
+C:\git\Riddles In The Dark\Temp\bin\Debug\Assembly-CSharp.dll
+C:\git\Riddles In The Dark\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\git\Riddles In The Dark\Temp\bin\Debug\UnityEditor.dll
+C:\git\Riddles In The Dark\Temp\bin\Debug\UnityEngine.dll
+C:\git\Riddles In The Dark\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\git\Riddles In The Dark\Temp\bin\Debug\UnityEngine.UI.dll
+C:\git\Riddles In The Dark\Temp\bin\Debug\Mono.Cecil.dll
+C:\git\Riddles In The Dark\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\git\Riddles In The Dark\Temp\bin\Debug\Unity.DataContract.dll
+C:\git\Riddles In The Dark\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\git\Riddles In The Dark\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\git\Riddles In The Dark\Temp\bin\Debug\Unity.CecilTools.dll
+C:\git\Riddles In The Dark\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\git\Riddles In The Dark\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\git\Riddles In The Dark\Temp\bin\Debug\UnityEngine.xml
+C:\git\Riddles In The Dark\Temp\bin\Debug\UnityEditor.xml
+C:\git\Riddles In The Dark\Temp\bin\Debug\UnityEngine.UI.xml
+C:\git\Riddles In The Dark\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\git\Riddles In The Dark\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\git\Riddles In The Dark\obj\Debug\Assembly-CSharp.dll
+C:\git\Riddles In The Dark\obj\Debug\Assembly-CSharp.pdb

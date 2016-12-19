@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -197,6 +198,11 @@ public class GameManager : MonoBehaviour
 		game.riddleArray [game.riddleIndex].m_object = m_object;
 
 		return riddle;
+	}
+
+	public void LoadScene (string scene)
+	{
+		SceneManager.LoadScene (scene);
 	}
 
 }
